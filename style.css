@@ -1,0 +1,63 @@
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Open+Sans:300);
+
+body{
+  background-image: url("https://hipertextual.com/archivo/wp-content/uploads/2014/10/pomodoro.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  font-family: "Pacifico"
+}
+
+h1{
+  margin-top: 10px;
+  color: #273C01;   
+}
+
+h3{
+  color: #273C01;
+}
+
+#title1, #title2{
+  color: #273C01;
+}
+
+#timeType, #timeType2{
+  color: #273C01;
+  
+}
+
+#num, #BreakNum{
+  color: #5B031C;
+  font-size: 50px;
+  
+}
+
+
+#timeDiv{ 
+  margin-top: 24px;
+  float: left;
+}
+
+#breakDiv{
+  float: right
+}
+
+h2{
+  display: inline;
+  font-size: 50px;
+}
+
+#start{
+  margin-right: 18px;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited{
+  background-color: #B8073D;
+  border-color: #5B031C;
+  font-size: 30px;
+}
+
+.btn-primary:hover{
+  background-color: #5B031C;
+  border-color: #5B031C;
+}
